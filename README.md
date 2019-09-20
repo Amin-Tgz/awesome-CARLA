@@ -61,9 +61,15 @@ More info [here](http://carla.org/).
    * [Reinforcement Learning Environment for CARLA Autonomous Driving Simulator](https://github.com/GokulNC/Setting-Up-CARLA-Reinforcement-Learning)
    * [Reinforcement Learning Coach by Intel AI Lab](https://github.com/NervanaSystems/coach) - Work with 0.8.x versions only
    (https://github.com/createamind/candy)
-   ()
-   ()
-   ()
+   (https://github.com/Sentdex/Carla-RL)
+   (https://github.com/bitsauce/Carla-ppo)
+   (https://github.com/MrMushroom/CarlaScenarioLoader)
+   (https://github.com/kvasnyj/carla)
+   (https://github.com/nrhine1/precog_carla_dataset)
+   (https://github.com/sigmaai/self-driving-golf-cart)
+   (https://github.com/enginBozkurt/carla-training-data)
+   
+   
    
    
    
