@@ -45,8 +45,9 @@ More info [here](http://carla.org/).
 * [Introduction to the CARLA simulator: training a neural network to control a car](https://medium.com/asap-report/introduction-to-the-carla-simulator-training-a-neural-network-to-control-a-car-part-1-e1c2c9a056a5)
 * [Setting up CARLA Simulator for the Self-Driving Cars Specialization](https://medium.com/datadriveninvestor/setting-up-carla-simulator-for-the-self-driving-cars-specialization-d38d4f6a0486)
 * [Official Doc](https://carla.readthedocs.io/en/latest/getting_started/)
-* [Coursera](https://www.coursera.org/specializations/self-driving-cars)
+* [Coursera(self-driving-cars)](https://www.coursera.org/specializations/self-driving-cars)
 * [Model-free Deep Reinforcement Learning for Urban Autonomous Driving](https://www.groundai.com/project/model-free-deep-reinforcement-learning-for-urban-autonomous-driving/)
+
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
@@ -78,8 +79,6 @@ More info [here](http://carla.org/).
    * [Module for detecting traffic lights in the CARLA](https://github.com/affinis-lab/traffic-light-detection-module)
    * [Implementing Lane Keeping Assist (LKA) on CARLA simulator](https://github.com/paulyehtw/Lane-Keeping-Assist-on-CARLA)
   
-
-
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
