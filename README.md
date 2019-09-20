@@ -37,6 +37,7 @@ More info [here](http://carla.org/).
 * [Repository to store different driving benchmarks that run on the CARLA simulator](https://github.com/carla-simulator/driving-benchmarks) - Work with 0.8.x versions only
 * [Data collector, also contains an client side agent ](https://github.com/carla-simulator/data-collector) - Work with 0.8.x versions only
 * [Standalone GUI application to enhance RoadRunner maps with traffic lights and traffic signs information](https://github.com/carla-simulator/carla-map-editor)
+* [Integration of AutoWare AV software with the CARLA simulator](https://github.com/carla-simulator/carla-autoware) - Work with 0.9.6
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)    
 
@@ -58,6 +59,12 @@ More info [here](http://carla.org/).
    * [CIRL: Controllable Imitative Reinforcement Learning for Vision-based Self-driving ](https://github.com/HubFire/Muti-branch-DDPG-CARLA)
    * [customized PPO based agent for Carla](https://github.com/bitsauce/Carla-ppo)
    * [Reinforcement Learning Environment for CARLA Autonomous Driving Simulator](https://github.com/GokulNC/Setting-Up-CARLA-Reinforcement-Learning)
+   * [Reinforcement Learning Coach by Intel AI Lab](https://github.com/NervanaSystems/coach) - Work with 0.8.x versions only
+   (https://github.com/createamind/candy)
+   ()
+   ()
+   ()
+   
    
    
    ### Imitation Learning 🌈 <a name="IL" /> 
