@@ -1,43 +1,44 @@
 # Awesome CARLA 💛 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A curated list of awesome CARLA tutorials, blogs, and projects.
+A curated list of awesome CARLA tutorials, blogs, and related projects.
 
 ![alt text](http://carla.org//img/carla.jpg)
-
-## Whats The CARLA ? 👀
-
-More info [here](http://carla.org/).
 
 ## 👉 Table of Contents <a name="TOC" />👈
 
 <!-- MarkdownTOC depth=4 -->
-- [Official Site](#official)
-- [Tutorials](#github-tutorials)
-- [SampleCodes/Projects](#sample)
-    - [General](#GeneralCode)
-    - [Specific Model/Task (like GAN,YOLO,NLP,...)](#SpecificCode)
-        - [GAN](#GAN_Code)
-        - [NLP](#NLP_Code)
-        - [Other](#Other_Code)
-- [Videos](#videos)
-    - [DevSummit 2019](#DevSum)
-    - [Google I/O 2019](#GIO)
-    - [TensorFlow YouTube Channel](#TYC)
-    - [Course](#course)
-    - [Other](#Other_Video)
-- [Blog posts](#blogs)
-- [Books](#books)
-- [Tools](#tools)
-- [Other](#other) <-new!
-- [#PoweredByTF 2.0 Challenge](#PWBYTF2) <-new!
-
+* [Whats The CARLA](#whatsCarla)
+* [Official Repositories](#official)
+* [Tutorials](#github-tutorials)
+* [SampleCodes/Projects](#sample)
+    * [RL]
+    * [IL]
+    * [Multi-Agent]
+    * [Other]
+* [Contribution]
+* [License]
 <!-- /MarkdownTOC --> 
 
 <img src="imgs/downfinger.png" alt="down" width="250" height="150">
 
+
+<a name="whatsCarla" />
+
+## Whats The CARLA ? 👀
+
+CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites, environmental conditions, full control of all static and dynamic actors, maps generation and much more.
+More info [here](http://carla.org/).
+
 <a name="official" />
 
-## Official Site 🏢 
-* [TensorFlow 2.0 Alpha](https://www.tensorflow.org/alpha)
+## Official Repositories 🏢 
+* [Main source code](https://github.com/carla-simulator/carla)
+* [Traffic scenario definition and execution engine](https://github.com/carla-simulator/scenario_runner) - Work with 0.9.2 and up
+* [ROS bridge for CARLA Simulator](https://github.com/carla-simulator/ros-bridge) - Work with 0.9.4 and up
+* [Reinforcement learning baseline agent trained with the Actor-critic (A3C) algorithm](https://github.com/carla-simulator/reinforcement-learning) - Work with 0.8.x versions only
+* [Repository to store conditional imitation learning based AI that runs on CARLA](https://github.com/carla-simulator/imitation-learning) - Work with 0.8.x versions only
+* [Repository to store different driving benchmarks that run on the CARLA simulator](https://github.com/carla-simulator/driving-benchmarks) - Work with 0.8.x versions only
+* [Data collector, also contains an client side agent ](https://github.com/carla-simulator/data-collector) - Work with 0.8.x versions only
+* [Standalone GUI application to enhance RoadRunner maps with traffic lights and traffic signs information](https://github.com/carla-simulator/carla-map-editor)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)    
 
@@ -50,51 +51,22 @@ More info [here](http://carla.org/).
 
 ## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
 
-   ### General 🚧 <a name="GeneralCode" />
-   
+   ### Reinforcment Learning 🚧 <a name="GeneralCode" />
    * [Tensorflow-2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide)
    
-   ### Specific Model/Task (like GAN,YOLO,NLP,...) <a name="SpecificCode" />
+   ### Imitation Learning <a name="SpecificCode" /> 
+   * [Tensorflow-2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide)
    
-   #### GAN <a name="GAN_Code" />🌄
+   ### Multi-Agent <a name="GAN_Code" />🌄
    * [Generative models in Tensorflow 2](https://github.com/timsainb/tensorflow2-generative-models/)
-   
-   
-   #### NLP <a name="NLP_Code" />🌈
-   * [Effective NLP in TensorFlow 2](https://github.com/zhedongzheng/finch)
   
-   #### Other <a name="Other_Code" />🚦
+   ### Other <a name="Other_Code" />🚦
    * [YOLO v3](https://github.com/zzh8829/yolov3-tf2)
   
   
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
-## Videos  🎥 📺 📹      <a name="videos" />
-
-### Course  <a name="course" />
-   * [Learning TensorFlow 2.0 (Udemy)](https://www.udemy.com/learning-tensorflow-20/)
-   * [TensorFlow in Practice Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
-
-### Other   <a name="Other_Video" />
-   * [GTC Silicon Valley-2019 ID:S9495:An Introduction to TensorFlow 2.0](https://developer.nvidia.com/gtc/2019/video/S9495)   
-   * [Make Money withTensorflow 2.0](https://www.youtube.com/watch?v=WS9Nckd2kq0)
-   
- [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
- 
-## Blog posts <a name="blogs" />📃
-* [Announcing TensorFlow 2.0 Beta](https://www.datacamp.com/community/tutorials/ten-important-updates-tensorflow) 
-
-[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
-
-## Books <a name="books" />📚
-
-* [TensorFlow 2.0 Quick Start Guide](https://www.packtpub.com/big-data-and-business-intelligence/tensorflow-20-quick-start-guide)
-* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-* [TensorFlow Machine Learning Cookbook - Second Edition](https://medium.com/tensorflow/announcing-tensorflow-2-0-beta-abb24bbfbe3d)
-
-[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
-
 ## Contributions 📭  <a name="contributions" />
 
 Your contributions are always welcome!
