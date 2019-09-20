@@ -8,22 +8,20 @@ A curated list of awesome CARLA tutorials, blogs, and related projects.
 <!-- MarkdownTOC depth=4 -->
 * [Whats The CARLA](#whatsCarla)
 * [Official Repositories](#official)
-* [Tutorials](#github-tutorials)
+* [Tutorials](#tutorials)
 * [SampleCodes/Projects](#sample)
-    * [RL]
-    * [IL]
-    * [Multi-Agent]
-    * [Other]
-* [Contribution]
-* [License]
+    * [Reinforcement Learning](#RL)
+    * [IL](#IL)
+    * [Multi-Agent](#MA)
+    * [Other](#Other_Code)
+* [Contribution](#contributions)
+* [License](#License)
 <!-- /MarkdownTOC --> 
 
 <img src="imgs/downfinger.png" alt="down" width="250" height="150">
 
 
-<a name="whatsCarla" />
-
-## Whats The CARLA ? 👀
+## Whats The CARLA ? 👀 <a name="whatsCarla" />
 
 CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites, environmental conditions, full control of all static and dynamic actors, maps generation and much more.
 More info [here](http://carla.org/).
@@ -42,22 +40,24 @@ More info [here](http://carla.org/).
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)    
 
-## Tutorials <a name="github-tutorials" /> 📕 📘 📗 📓
+## Tutorials <a name="tutorials" /> 📕 📘 📗 📓
 
-* [TensorFlow Tutorial](https://github.com/aymericdamien/TensorFlow-Examples/tree/master/tensorflow_v2) <img src="imgs/5.png" alt="down" width="50" height="17">
-
+* [Introduction to the CARLA simulator: training a neural network to control a car](https://medium.com/asap-report/introduction-to-the-carla-simulator-training-a-neural-network-to-control-a-car-part-1-e1c2c9a056a5)
+* [Setting up CARLA Simulator for the Self-Driving Cars Specialization](https://medium.com/datadriveninvestor/setting-up-carla-simulator-for-the-self-driving-cars-specialization-d38d4f6a0486)
+* [Official Doc](https://carla.readthedocs.io/en/latest/getting_started/)
+* [Coursera](https://www.coursera.org/specializations/self-driving-cars)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
 
-   ### Reinforcment Learning 🚧 <a name="GeneralCode" />
+   ### Reinforcement Learning 🚧 <a name="RL" />
    * [Tensorflow-2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide)
    
-   ### Imitation Learning <a name="SpecificCode" /> 
+   ### Imitation Learning <a name="IL" /> 
    * [Tensorflow-2.0 Quick Start Guide](https://github.com/PacktPublishing/Tensorflow-2.0-Quick-Start-Guide)
    
-   ### Multi-Agent <a name="GAN_Code" />🌄
+   ### Multi-Agent <a name="MA" />🌄
    * [Generative models in Tensorflow 2](https://github.com/timsainb/tensorflow2-generative-models/)
   
    ### Other <a name="Other_Code" />🚦
@@ -77,4 +77,6 @@ Also, if you notice that any of the above listed repositories should be deprecat
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
-More info on the [guidelines](https://github.com/Amin-Tgz/Awesome-TensorFlow-2/blob/master/contributing.md)
+More info on the [guidelines](https://github.com/Amin-Tgz/awesome-CARLA/blob/master/contributing.md)
+
+## License  <a name="License" />
