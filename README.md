@@ -60,7 +60,7 @@ More info [here](http://carla.org/).
    * [Reinforcement Learning Environment for CARLA Autonomous Driving Simulator](https://github.com/GokulNC/Setting-Up-CARLA-Reinforcement-Learning)
    
    
-   ### Imitation Learning <a name="IL" /> 
+   ### Imitation Learning 🌈 <a name="IL" /> 
    * [Training framework for conditional imitation learning](https://github.com/felipecode/coiltraine)
    * [Carla Imitation Learning Trainer](https://github.com/mvpcom/carlaILTrainer)
    * [A pytorch implementation to train the conditional imitation learning policy](https://github.com/onlytailei/carla_cil_pytorch)
