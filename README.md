@@ -54,19 +54,20 @@ More info [here](http://carla.org/).
 ## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
 
    ### Reinforcement Learning 🚧 <a name="RL" />
-   * [Use Reinforcement Learning to train an autonomous driving agent in CARLA Simulator](https://github.com/zhangfuyang/rl_CARLA) - version 0.8.2
-   * [Autonomous Driving on Carla simulator using Deep Deterministic Policy Gradients](https://github.com/ankur-rc/autodrive_ddpg) - version 0.8.2
+   * [Use Reinforcement Learning to train an autonomous driving agent in CARLA Simulator](https://github.com/zhangfuyang/rl_CARLA) - Use version 0.8.2
+   * [Autonomous Driving on Carla simulator using Deep Deterministic Policy Gradients](https://github.com/ankur-rc/autodrive_ddpg) - Use version 0.8.2
    * [CIRL: Controllable Imitative Reinforcement Learning for Vision-based Self-driving ](https://github.com/HubFire/Muti-branch-DDPG-CARLA) - version 0.8.2(seems)
-   * [customized PPO based agent for Carla](https://github.com/bitsauce/Carla-ppo) - version 0.9.5
-   * [Reinforcement Learning Environment for CARLA Autonomous Driving Simulator](https://github.com/GokulNC/Setting-Up-CARLA-Reinforcement-Learning) - version 0.8.0
-   * [Reinforcement Learning Coach by Intel AI Lab](https://github.com/NervanaSystems/coach) - Work with version version 0.8.4
-   * [What is candy? A model with the structure: Hierarchical Observation -- Plan&Policy -- Hierarchical Actions](https://github.com/createamind/candy) - 0.8.2 
-   * [Reinforcement Learning codebase for self-driving car in Carla](https://github.com/Sentdex/Carla-RL) - version 0.9.5
-     
+   * [customized PPO based agent for Carla](https://github.com/bitsauce/Carla-ppo) - Use version 0.9.5
+   * [Reinforcement Learning Environment for CARLA Autonomous Driving Simulator](https://github.com/GokulNC/Setting-Up-CARLA-Reinforcement-Learning) - Use version 0.8.0
+   * [Reinforcement Learning Coach by Intel AI Lab](https://github.com/NervanaSystems/coach) - Use version 0.8.4
+   * [What is candy? A model with the structure: Hierarchical Observation -- Plan&Policy -- Hierarchical Actions](https://github.com/createamind/candy) - Use version 0.8.2 
+   * [Reinforcement Learning codebase for self-driving car in Carla](https://github.com/Sentdex/Carla-RL) - Use version 0.9.5
+   * [Double DQN to train an agent how to drive autonomously](https://github.com/koustavagoswami/Autonomous-Car-Driving-using-Deep-Reinforcement-Learning-in-Carla-Simulator) 
+   
    ### Imitation Learning 🌈 <a name="IL" /> 
-   * [Training framework for conditional imitation learning](https://github.com/felipecode/coiltraine)
-   * [Carla Imitation Learning Trainer](https://github.com/mvpcom/carlaILTrainer)
-   * [A pytorch implementation to train the conditional imitation learning policy](https://github.com/onlytailei/carla_cil_pytorch)
+   * [Training framework for conditional imitation learning](https://github.com/felipecode/coiltraine) - Use version
+   * [Carla Imitation Learning Trainer](https://github.com/mvpcom/carlaILTrainer) - Use version
+   * [A pytorch implementation to train the conditional imitation learning policy](https://github.com/onlytailei/carla_cil_pytorch) - Use version
    
   
    ### Multi-Agent <a name="MA" />🌄
@@ -74,18 +75,27 @@ More info [here](http://carla.org/).
    
    
    ### Other <a name="Other_Code" />🚦
-   * [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym)
-   * [Self Driving Cars Longitudinal and Lateral Control Design](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign)
-   * [The OmniScape Dataset](https://github.com/ARSekkat/OmniScape)
-   * [Module for deep learning powered, stateful imitation learning in the CARLA autonomous vehicle simulator. ](https://github.com/affinis-lab/core)
-   * [Module for car detection](https://github.com/affinis-lab/car-detection-module)
-   * [Module for detecting traffic lights in the CARLA](https://github.com/affinis-lab/traffic-light-detection-module)
-   * [Implementing Lane Keeping Assist (LKA) on CARLA simulator](https://github.com/paulyehtw/Lane-Keeping-Assist-on-CARLA)
-   * [Similar Simulator](https://github.com/sigmaai/self-driving-golf-cart)
-   * [Generating training data from the Carla driving simulator in the KITTI dataset format](https://github.com/enginBozkurt/carla-training-data)
-   * [Small example for loading the CARLA data from the PRECOG paper](https://github.com/nrhine1/precog_carla_dataset)
-   * [A scenario loader for the automotive simulator](https://github.com/MrMushroom/CarlaScenarioLoader) - Carla 0.9.3
-   * [My playground with Carla](https://github.com/kvasnyj/carla) - version 0.8.x
+   * [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym) - Use version
+   * [Self Driving Cars Longitudinal and Lateral Control Design](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign) - Use version
+   * [The OmniScape Dataset](https://github.com/ARSekkat/OmniScape) - Use version
+   * [Module for deep learning powered, stateful imitation learning in the CARLA autonomous vehicle simulator. ](https://github.com/affinis-lab/core) - Use version
+   * [Module for car detection](https://github.com/affinis-lab/car-detection-module) - Use version
+   * [Module for detecting traffic lights in the CARLA](https://github.com/affinis-lab/traffic-light-detection-module) - Use version
+   * [Implementing Lane Keeping Assist (LKA) on CARLA simulator](https://github.com/paulyehtw/Lane-Keeping-Assist-on-CARLA) - Use version
+   * [Similar Simulator](https://github.com/sigmaai/self-driving-golf-cart) - Use version
+   * [Generating training data from the Carla driving simulator in the KITTI dataset format](https://github.com/enginBozkurt/carla-training-data) - Use version
+   * [Small example for loading the CARLA data from the PRECOG paper](https://github.com/nrhine1/precog_carla_dataset) - Use version
+   * [A scenario loader for the automotive simulator](https://github.com/MrMushroom/CarlaScenarioLoader) - - Use version 0.9.3
+   * [My playground with Carla](https://github.com/kvasnyj/carla) - - Use version 0.8.x
+   * [Carla Simulator Data Collector (semantic segmentation)](https://github.com/enginBozkurt/CarlaSimulatorDataCollector)
+   * [Image segmentation using U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
+   * [Simulate precise LiDAR point cloud data from Carla](https://github.com/liuzuxin/Pesudo_Lidar_PointCloud_Carla)
+   * [C++ Client for Unreal Engine 4 running Carla](https://github.com/p-schulz/CarlaClientCpp)
+   * [Carla Display on Browser - Backend](https://github.com/mellocolate/carla-display-backend)
+   * [Dockerfile to use CARLA ROS bridge on Docker container ](https://github.com/atinfinity/carla_ros_bridge_docker)
+   * [Generate visual navigation data for CARLA](https://github.com/IamWangYunKai/carla_py) - 0.9.5
+   * [CARLA-Lane_Detection](https://github.com/angelkim88/CARLA-Lane_Detection)
+   * [A traffic rules monitor for the CARLA simulator](https://github.com/abol-karimi/TrafficMonitor)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
