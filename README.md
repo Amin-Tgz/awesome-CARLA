@@ -86,15 +86,15 @@ More info [here](http://carla.org/).
    * [Generating training data from the Carla driving simulator in the KITTI dataset format](https://github.com/enginBozkurt/carla-training-data) - Use version 0.8.x
    * [Small example for loading the CARLA data from the PRECOG paper](https://github.com/nrhine1/precog_carla_dataset) - Use version0.8.x (seems)
    * [A scenario loader for the automotive simulator](https://github.com/MrMushroom/CarlaScenarioLoader) - Use version 0.9.3
-   * [My playground with Carla](https://github.com/kvasnyj/carla) - - Use version 0.8.x
-   * [Carla Simulator Data Collector (semantic segmentation)](https://github.com/enginBozkurt/CarlaSimulatorDataCollector)
+   * [My playground with Carla](https://github.com/kvasnyj/carla) - Use version 0.8.x
+   * [Carla Simulator Data Collector (semantic segmentation)](https://github.com/enginBozkurt/CarlaSimulatorDataCollector) - Use version 0.8.4
    * [Image segmentation using U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
-   * [Simulate precise LiDAR point cloud data from Carla](https://github.com/liuzuxin/Pesudo_Lidar_PointCloud_Carla)
+   * [Simulate precise LiDAR point cloud data from Carla](https://github.com/liuzuxin/Pesudo_Lidar_PointCloud_Carla) - Use version 0.9.6
    * [C++ Client for Unreal Engine 4 running Carla](https://github.com/p-schulz/CarlaClientCpp)
-   * [Carla Display on Browser - Backend](https://github.com/mellocolate/carla-display-backend)
-   * [Dockerfile to use CARLA ROS bridge on Docker container ](https://github.com/atinfinity/carla_ros_bridge_docker)
+   * [Carla Display on Browser - Backend](https://github.com/mellocolate/carla-display-backend) - Use version 0.9.6
+   * [Dockerfile to use CARLA ROS bridge on Docker container ](https://github.com/atinfinity/carla_ros_bridge_docker) - Use version 0.8.x
    * [Generate visual navigation data for CARLA](https://github.com/IamWangYunKai/carla_py) - 0.9.5
-   * [CARLA-Lane_Detection](https://github.com/angelkim88/CARLA-Lane_Detection)
+   * [CARLA-Lane_Detection](https://github.com/angelkim88/CARLA-Lane_Detection) - Use version 0.9.6
    * [A traffic rules monitor for the CARLA simulator](https://github.com/abol-karimi/TrafficMonitor)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
