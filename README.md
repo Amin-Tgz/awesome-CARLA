@@ -92,7 +92,7 @@ More info [here](http://carla.org/).
    * [Simulate precise LiDAR point cloud data from Carla](https://github.com/liuzuxin/Pesudo_Lidar_PointCloud_Carla) - Use version 0.9.6
    * [C++ Client for Unreal Engine 4 running Carla](https://github.com/p-schulz/CarlaClientCpp)
    * [Carla Display on Browser - Backend](https://github.com/mellocolate/carla-display-backend) - Use version 0.9.6
-   * [Dockerfile to use CARLA ROS bridge on Docker container ](https://github.com/atinfinity/carla_ros_bridge_docker) - Use version 0.8.x
+   * [Dockerfile to use CARLA ROS bridge on Docker container](https://github.com/atinfinity/carla_ros_bridge_docker) - Use version 0.9.6
    * [Generate visual navigation data for CARLA](https://github.com/IamWangYunKai/carla_py) - 0.9.5
    * [CARLA-Lane_Detection](https://github.com/angelkim88/CARLA-Lane_Detection) - Use version 0.9.6
    * [A traffic rules monitor for the CARLA simulator](https://github.com/abol-karimi/TrafficMonitor)
