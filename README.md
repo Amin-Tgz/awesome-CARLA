@@ -60,6 +60,7 @@ comming soon ...
 ## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
 
    ### Reinforcement Learning 🚧 <a name="RL" />
+   * [Reinforcement learning rofficial repoistory](https://github.com/carla-simulator/reinforcement-learning) - Work with 0.8.x versions only
    * [Use Reinforcement Learning to train an autonomous driving agent in CARLA Simulator](https://github.com/zhangfuyang/rl_CARLA) - Use version 0.8.2
    * [Autonomous Driving on Carla simulator using Deep Deterministic Policy Gradients](https://github.com/ankur-rc/autodrive_ddpg) - Use version 0.8.2
    * [CIRL: Controllable Imitative Reinforcement Learning for Vision-based Self-driving ](https://github.com/HubFire/Muti-branch-DDPG-CARLA) - version 0.8.2(seems)
@@ -71,6 +72,7 @@ comming soon ...
    * [Double DQN to train an agent how to drive autonomously](https://github.com/koustavagoswami/Autonomous-Car-Driving-using-Deep-Reinforcement-Learning-in-Carla-Simulator)  - Use version 0.8.x (seems)
    
    ### Imitation Learning 🌈 <a name="IL" /> 
+   * [imitation-learning official repository](https://github.com/carla-simulator/imitation-learning)
    * [Training framework for conditional imitation learning](https://github.com/felipecode/coiltraine) - Use version 0.8.x
    * [Carla Imitation Learning Trainer](https://github.com/mvpcom/carlaILTrainer) - Use version 0.8.x
    * [A pytorch implementation to train the conditional imitation learning policy](https://github.com/onlytailei/carla_cil_pytorch) - Use version 0.8.x (seems)
