@@ -105,6 +105,14 @@ comming soon ...
    * [CARLA-Lane_Detection](https://github.com/angelkim88/CARLA-Lane_Detection) - Use version 0.9.6
    * [A traffic rules monitor for the CARLA simulator](https://github.com/abol-karimi/TrafficMonitor)
    * [Alpha Drive is a platform providing cloud-based tools for testing and validation of AI algorithms in simulation](https://alphadrive.ai/)
+   * [Semantic Instance Geometry Network for Unsupervised Perception](https://github.com/raunaks13/carla-SIGNet)
+   * [Code to generate instance masks for SIGNet, adapted for the CARLA simulator ](https://github.com/raunaks13/Detectron-SIGNet)
+   * [Labeled Dataset for Object Detection in Carla Simulator ](https://github.com/DanielHfnr/Carla-Object-Detection-Dataset)
+   * [Tensorflow-Carla-Object-Detection](https://github.com/DanielHfnr/Tensorflow-Carla-Object-Detection)
+   * [Detect CARLA Simulator's Traffic Speed Sign using YOLO v3](https://github.com/martisaju/CARLA-Speed-Traffic-Sign-Detection-Using-Yolo)
+   * [Team KITT's Controller for Udacity's Self-Driving Car, Carla, and its Simulator ](https://github.com/anandman/carla-kitt)
+   * [Exercises from the Self-Driving Cars Specialization by the University of Toronto on Coursera ](https://github.com/daniel-s-ingram/self_driving_cars_specialization)
+   * [Exercises from the Self-Driving Cars Specialization by the University of Toronto on Coursera - 2](https://github.com/qiaoxu123/Self-Driving-Cars)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
