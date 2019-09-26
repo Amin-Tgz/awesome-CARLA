@@ -104,7 +104,7 @@ comming soon ...
    * [Generate visual navigation data for CARLA](https://github.com/IamWangYunKai/carla_py) - 0.9.5
    * [CARLA-Lane_Detection](https://github.com/angelkim88/CARLA-Lane_Detection) - Use version 0.9.6
    * [A traffic rules monitor for the CARLA simulator](https://github.com/abol-karimi/TrafficMonitor)
-   
+   * [Alpha Drive is a platform providing cloud-based tools for testing and validation of AI algorithms in simulation](https://alphadrive.ai/)
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
 ## Contributions 📭  <a name="contributions" />
