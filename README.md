@@ -7,13 +7,15 @@ A curated list of awesome CARLA tutorials, blogs, and related projects.
 
 <!-- MarkdownTOC depth=4 -->
 * [Whats The CARLA](#whatsCarla)
-* [Builds](#builds)
+* [Releases](#releases)
 * [Official Repositories](#official)
 * [Tutorials](#tutorials)
 * [SampleCodes/Projects](#sample)
     * [Reinforcement Learning](#RL)
     * [Imitation Learning](#IL)
     * [Multi-Agent](#MA)
+    * [Detection](#Det)
+    * [Segmentatiom](#Seg)
     * [Other](#Other_Code)
 * [Contribution](#contributions)
 * [License](#License)
@@ -27,9 +29,9 @@ A curated list of awesome CARLA tutorials, blogs, and related projects.
 CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites, environmental conditions, full control of all static and dynamic actors, maps generation and much more.
 More info [here](http://carla.org/).
 
-<a name="builds" />
+<a name="releases" />
 
-## Builds  
+## Releases  
 comming soon ...
 
 <a name="official" />
