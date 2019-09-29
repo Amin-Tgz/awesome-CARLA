@@ -31,9 +31,9 @@ More info [here](http://carla.org/).
 
 <a name="releases" />
 
-## Releases  
+## Releases 📦⛳ 
 * [0.9.6 (Linux only) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.6)
-* [0.9.6 (Windows x64 unofficial release made by me! - 2/4 part uploaded)](https://drive.google.com/drive/folders/1ptSje3ur6aDaY2qqBYQjiORBLzurxtW1?usp=sharing)
+* [0.9.6 (Windows x64 unofficial release made by me! - 2/4 part uploaded other part will be uploaded soon ;) )](https://drive.google.com/drive/folders/1ptSje3ur6aDaY2qqBYQjiORBLzurxtW1?usp=sharing)
 * [0.8.4 (Linux & Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.8.4)
 
 <a name="official" />
@@ -99,7 +99,7 @@ More info [here](http://carla.org/).
    * [Image segmentation using U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
    * [Semantic segmentation for carla dataset](https://github.com/EvanWY/CARLASemSeg)
    
-   ### Data Collection/Generating
+   ### Data Collection/Generating <a name="collection" /> 💾
    * [A CARLA controller for generating datasets and end-to-end models for autonomous vehicle control ](https://github.com/MaxJohnsen/carla-controller)
    * [Carla Simulator Data Collector (semantic segmentation)](https://github.com/enginBozkurt/CarlaSimulatorDataCollector) - Use version 0.8.4
    * [A simple tool for generating training data from the Carla driving simulator](https://github.com/Ozzyz/carla-data-export)
