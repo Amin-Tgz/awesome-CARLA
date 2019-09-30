@@ -59,7 +59,7 @@ More info [here](http://carla.org/).
 * [Official Doc](https://carla.readthedocs.io/en/latest/getting_started/)
 * [Coursera(self-driving-cars)](https://www.coursera.org/specializations/self-driving-cars)
 * [Model-free Deep Reinforcement Learning for Urban Autonomous Driving](https://www.groundai.com/project/model-free-deep-reinforcement-learning-for-urban-autonomous-driving/)
-
+* [Self-driving cars with Carla and Python(Sentdex Tutorials)](https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/)
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
