@@ -16,6 +16,7 @@ A curated list of awesome CARLA tutorials, blogs, and related projects.
     * [Multi-Agent](#MA)
     * [Detection](#Det)
     * [Segmentatiom](#Seg)
+    * [Data Collection/Generating](#collection)
     * [Other](#Other_Code)
 * [Contribution](#contributions)
 * [License](#License)
