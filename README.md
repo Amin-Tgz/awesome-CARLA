@@ -33,7 +33,7 @@ More info [here](http://carla.org/).
 
 ## Releases 📦⛳ 
 * [0.9.6 (Linux only) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.6)
-* [0.9.6 (Windows x64 unofficial release made by me! - 2/4 part uploaded other part will be uploaded soon ;) )](https://drive.google.com/drive/folders/1ptSje3ur6aDaY2qqBYQjiORBLzurxtW1?usp=sharing)
+* [0.9.6 (Windows x64 unofficial release made by me!)](https://drive.google.com/drive/folders/1ptSje3ur6aDaY2qqBYQjiORBLzurxtW1?usp=sharing)
 * [0.8.4 (Linux & Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.8.4)
 
 <a name="official" />
