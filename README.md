@@ -37,6 +37,8 @@ More info [here](http://carla.org/).
 * [0.9.6 (Windows x64 unofficial release made by me!)](https://drive.google.com/drive/folders/1ptSje3ur6aDaY2qqBYQjiORBLzurxtW1?usp=sharing) - Unzip with 7-Zip or WinRAR => after run CARLA, Unreal installs pre-requirements automatically if needed
 * [0.8.4 (Linux & Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.8.4)
 
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
+
 <a name="official" />
 
 ## Official Repositories 🏢 
@@ -60,6 +62,7 @@ More info [here](http://carla.org/).
 * [Coursera(self-driving-cars)](https://www.coursera.org/specializations/self-driving-cars)
 * [Model-free Deep Reinforcement Learning for Urban Autonomous Driving](https://www.groundai.com/project/model-free-deep-reinforcement-learning-for-urban-autonomous-driving/)
 * [Self-driving cars with Carla and Python(Sentdex Tutorials)](https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/)
+
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
 
 ## Sample Codes / Projects <a name="sample" /> 🎉🎉🎉   
@@ -155,3 +158,5 @@ More info on the [guidelines](https://github.com/Amin-Tgz/awesome-CARLA/blob/mas
 
 ## License  <a name="License" />
 Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+[<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
