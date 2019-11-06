@@ -17,6 +17,7 @@ A curated list of awesome CARLA tutorials, blogs, and related projects.
     * [Detection](#Det)
     * [Segmentatiom](#Seg)
     * [Data Collection/Generating](#collection)
+    * [Control](#control)
     * [Other](#Other_Code)
 * [Contribution](#contributions)
 * [License](#License)
@@ -79,6 +80,7 @@ More info [here](http://carla.org/).
    * [Reinforcement Learning codebase for self-driving car in Carla](https://github.com/Sentdex/Carla-RL) - Use version 0.9.5
    * [Double DQN to train an agent how to drive autonomously](https://github.com/koustavagoswami/Autonomous-Car-Driving-using-Deep-Reinforcement-Learning-in-Carla-Simulator)  - Use version 0.8.x (seems)
    * [Reinforcement Learning Experiments on Carla](https://github.com/auton-carla/carla-rl)
+   * [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym) - Use version 0.8.x
    
    ### Imitation Learning 🌈 <a name="IL" /> 
    * [imitation-learning official repository](https://github.com/carla-simulator/imitation-learning)
@@ -88,9 +90,11 @@ More info [here](http://carla.org/).
    * [Carla-Imitation-Learning ETHZ](https://gitlab.ethz.ch/3D-Driver/Carla-Imitation-Learning/)
    * [Keras implementation of Conditional Imitation Learning](https://github.com/jmarrr/CIL-Keras)
    * [Driving in CARLA using waypoints and two-stage imitation learning](https://github.com/dianchen96/LearningByCheating) - Use version 0.9.6
- 
+   * [Module for deep learning powered, stateful imitation learning in the CARLA autonomous vehicle simulator](https://github.com/affinis-lab/core) - Use version 0.8.4
+  
    ### Multi-Agent <a name="MA" />🌄
    * [Learning Environments for Multi-Agent Connected Autonomous Driving (MACAD)](https://github.com/praveen-palanisamy/macad-gym) - Use version 0.9.x
+   * [Build system for the new architecture of CARLA(supports multi-client multi-agent communication)](https://github.com/nsubiron/libcarla)
    
    ### Detection  <a name="Det" /> 🔍
    * [Module for car detection](https://github.com/affinis-lab/car-detection-module) - Use version 0.8.4
@@ -105,6 +109,8 @@ More info [here](http://carla.org/).
    ### Segmentation <a name="Seg" /> 🌴
    * [Image segmentation using U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
    * [Semantic segmentation for carla dataset](https://github.com/EvanWY/CARLASemSeg)
+   * [Semantic Instance Geometry Network for Unsupervised Perception](https://github.com/raunaks13/carla-SIGNet)
+   * [Won 28th place in this competition to accurately detect cars and road](https://github.com/ericlavigne/Lyft-Perception-Challenge)
    
    ### Data Collection/Generating <a name="collection" /> 💾
    * [A CARLA controller for generating datasets and end-to-end models for autonomous vehicle control ](https://github.com/MaxJohnsen/carla-controller)
@@ -113,36 +119,34 @@ More info [here](http://carla.org/).
    * [Script for extracting semantic segmentation/depth prediction dataset out of Carla Urban Driving Simulator](https://github.com/alirezahappy/Carla_Script)
    * [Generate visual navigation data for CARLA](https://github.com/IamWangYunKai/carla_py) - 0.9.5
       
-   ### Other <a name="Other_Code" />🚦
-   * [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym) - Use version 0.8.x
-   * [Self Driving Cars Longitudinal and Lateral Control Design](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign) - Use version  0.8.x
-   * [The OmniScape Dataset](https://github.com/ARSekkat/OmniScape) - Use version 0.9.x
-   * [Module for deep learning powered, stateful imitation learning in the CARLA autonomous vehicle simulator](https://github.com/affinis-lab/core) - Use version 0.8.4
+   ### Control <a name="control" /> 🔥
+   * [Implement Motion Planning for autonomous car on CARLA simulator](https://github.com/paulyehtw/Motion-Planning-on-CARLA)
+   * [Longitudinal and lateral car Controller in python for Carla Car Simulator](https://github.com/yoelrc88/carla-sim-controller)
    * [Implementing Lane Keeping Assist (LKA) on CARLA simulator](https://github.com/paulyehtw/Lane-Keeping-Assist-on-CARLA) - Use version 0.8.x
+   * [Self Driving Cars Longitudinal and Lateral Control Design](https://github.com/enginBozkurt/SelfDrivingCarsControlDesign) - Use version  0.8.x
+   * [Implementing Lane Keeping Assist (LKA) on CARLA simulator](https://github.com/paulyehtw/Lane-Keeping-Assist-on-CARLA)
+   * [CARLA_Motion_Planning_for_Self-Driving_Cars_Project](https://github.com/yymmaa0000/CARLA_Motion_Planning_for_Self-Driving_Cars_Project)
+   * [Repository for the infinite horizon controller and the preview path tracking controller for Carla-Vehicle assets](https://github.com/aroongta/Carla_Controller)
+   
+   ### Other <a name="Other_Code" />🚦
+   * [The OmniScape Dataset](https://github.com/ARSekkat/OmniScape) - Use version 0.9.x
    * [ROS bridge for CARLA simulator](https://github.com/sigmaai/self-driving-golf-cart/blob/master/ros/src/simulation/README.md) - Use version 0.9.2 and up
    * [Small example for loading the CARLA data from the PRECOG paper](https://github.com/nrhine1/precog_carla_dataset) - Use version0.8.x (seems)
    * [A scenario loader for the automotive simulator](https://github.com/MrMushroom/CarlaScenarioLoader) - Use version 0.9.3
    * [My playground with Carla](https://github.com/kvasnyj/carla) - Use version 0.8.x
    * [Simulate precise LiDAR point cloud data from Carla](https://github.com/liuzuxin/Pesudo_Lidar_PointCloud_Carla) - Use version 0.9.6
    * [C++ Client for Unreal Engine 4 running Carla](https://github.com/p-schulz/CarlaClientCpp)
-   * [Carla Display on Browser - Backend](https://github.com/mellocolate/carla-display-backend) - Use version 0.9.6
+   * [Carla Display on Browser](https://github.com/mellocolate/carla-display) - Use version 0.9.6
    * [Dockerfile to use CARLA ROS bridge on Docker container](https://github.com/atinfinity/carla_ros_bridge_docker) - Use version 0.9.6
    * [A traffic rules monitor for the CARLA simulator](https://github.com/abol-karimi/TrafficMonitor)
    * [Alpha Drive is a platform providing cloud-based tools for testing and validation of AI algorithms in simulation](https://alphadrive.ai/)
-   * [Semantic Instance Geometry Network for Unsupervised Perception](https://github.com/raunaks13/carla-SIGNet)
    * [Code to generate instance masks for SIGNet, adapted for the CARLA simulator ](https://github.com/raunaks13/Detectron-SIGNet)
    * [Exercises from the Self-Driving Cars Specialization by the University of Toronto on Coursera ](https://github.com/daniel-s-ingram/self_driving_cars_specialization)
    * [Exercises from the Self-Driving Cars Specialization by the University of Toronto on Coursera - 2](https://github.com/qiaoxu123/Self-Driving-Cars)
    * [Platform for Ethical Decision Making in Autonomous Vehicles](https://github.com/zminton/TrolleyMod)
-   * [Implementing Lane Keeping Assist (LKA) on CARLA simulator](https://github.com/paulyehtw/Lane-Keeping-Assist-on-CARLA)
    * [Carla-Simulator environment compatible with Ray/Rllib](https://github.com/layssi/Carla_Ray_Rlib)
-   * [Won 28th place in this competition to accurately detect cars and road](https://github.com/ericlavigne/Lyft-Perception-Challenge)
    * [VNC/SSH Carla server inside a docker container](https://github.com/volkodava/docker-carla-vnc-desktop)
-   * [Build system for the new architecture of CARLA(supports multi-client multi-agent communication)](https://github.com/nsubiron/libcarla)
    * [CARLA Simulatior intergation for the da Vinci Research Kit](https://github.com/ABC-iRobotics/dvrk_carla)
-   * [CARLA_Motion_Planning_for_Self-Driving_Cars_Project](https://github.com/yymmaa0000/CARLA_Motion_Planning_for_Self-Driving_Cars_Project)
-   * [Repository for the infinite horizon controller and the preview path tracking controller for Carla-Vehicle assets](https://github.com/aroongta/Carla_Controller)
-   
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
