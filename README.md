@@ -147,6 +147,7 @@ More info [here](http://carla.org/).
    * [Carla-Simulator environment compatible with Ray/Rllib](https://github.com/layssi/Carla_Ray_Rlib)
    * [VNC/SSH Carla server inside a docker container](https://github.com/volkodava/docker-carla-vnc-desktop)
    * [CARLA Simulatior intergation for the da Vinci Research Kit](https://github.com/ABC-iRobotics/dvrk_carla)
+   * [Additional clients examples for Carla](https://github.com/marcgpuig/carla_py_clients)
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
  
@@ -164,5 +165,12 @@ More info on the [guidelines](https://github.com/Amin-Tgz/awesome-CARLA/blob/mas
 
 ## License  <a name="License" />
 Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+
+
+Join Disocrd of Carla:
+
+
+
+ [![discord](https://carlisletheacarlisletheatre.org/images/discord-logo-png-dark-9.png)](https://discord.gg/8kqACuC)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC) 
