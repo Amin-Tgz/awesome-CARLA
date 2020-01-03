@@ -34,6 +34,7 @@ More info [here](http://carla.org/).
 <a name="releases" />
 
 ## Releases 📦⛳ 
+* [0.9.7 (Linux only) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.7)
 * [0.9.6 (Linux only) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.6)
 * [0.9.6 (Windows x64 unofficial release made by me!)](https://drive.google.com/drive/folders/1ptSje3ur6aDaY2qqBYQjiORBLzurxtW1?usp=sharing) - Unzip with 7-Zip or WinRAR => after run CARLA, Unreal installs pre-requirements automatically if needed. also for Python API see this [issue](https://github.com/Amin-Tgz/awesome-CARLA/issues/1#issuecomment-538339385)
 * [0.8.4 (Linux & Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.8.4)
@@ -81,6 +82,7 @@ More info [here](http://carla.org/).
    * [Double DQN to train an agent how to drive autonomously](https://github.com/koustavagoswami/Autonomous-Car-Driving-using-Deep-Reinforcement-Learning-in-Carla-Simulator)  - Use version 0.8.x (seems)
    * [Reinforcement Learning Experiments on Carla](https://github.com/auton-carla/carla-rl)
    * [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym) - Use version 0.8.x
+   * [An OpenAI gym wrapper for CARLA simulator](https://github.com/cjy1992/gym-carla)
    
    ### Imitation Learning 🌈 <a name="IL" /> 
    * [imitation-learning official repository](https://github.com/carla-simulator/imitation-learning)
@@ -129,6 +131,8 @@ More info [here](http://carla.org/).
    * [Repository for the infinite horizon controller and the preview path tracking controller for Carla-Vehicle assets](https://github.com/aroongta/Carla_Controller)
    
    ### Other <a name="Other_Code" />🚦
+   * [MATLAB Carla Interface](https://github.com/darkscyla/MATLAB-Carla-Interface)
+   * [Dockerfile to use CARLA ROS bridge on Docker container](https://github.com/atinfinity/carla_ros_bridge_docker)
    * [The OmniScape Dataset](https://github.com/ARSekkat/OmniScape) - Use version 0.9.x
    * [ROS bridge for CARLA simulator](https://github.com/sigmaai/self-driving-golf-cart/blob/master/ros/src/simulation/README.md) - Use version 0.9.2 and up
    * [Small example for loading the CARLA data from the PRECOG paper](https://github.com/nrhine1/precog_carla_dataset) - Use version0.8.x (seems)
