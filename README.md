@@ -83,6 +83,7 @@ More info [here](http://carla.org/).
    * [Reinforcement Learning Experiments on Carla](https://github.com/auton-carla/carla-rl)
    * [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym) - Use version 0.8.x
    * [An OpenAI gym wrapper for CARLA simulator](https://github.com/cjy1992/gym-carla)
+   * [Reproducing : https://github.com/intel-isl/DirectFuturePrediction And applying to gym and CARLA](https://github.com/Ourshanabi/DirectFuturePrediction_CARLA)
    
    ### Imitation Learning 🌈 <a name="IL" /> 
    * [imitation-learning official repository](https://github.com/carla-simulator/imitation-learning)
@@ -93,6 +94,7 @@ More info [here](http://carla.org/).
    * [Keras implementation of Conditional Imitation Learning](https://github.com/jmarrr/CIL-Keras)
    * [Driving in CARLA using waypoints and two-stage imitation learning](https://github.com/dianchen96/LearningByCheating) - Use version 0.9.6
    * [Module for deep learning powered, stateful imitation learning in the CARLA autonomous vehicle simulator](https://github.com/affinis-lab/core) - Use version 0.8.4
+  * [Exploring Distributional Shift in Imitation Learning](https://github.com/franckdess/VITA_CARLA_Tutorial)
   
    ### Multi-Agent <a name="MA" />🌄
    * [Learning Environments for Multi-Agent Connected Autonomous Driving (MACAD)](https://github.com/praveen-palanisamy/macad-gym) - Use version 0.9.x
@@ -131,6 +133,7 @@ More info [here](http://carla.org/).
    * [Repository for the infinite horizon controller and the preview path tracking controller for Carla-Vehicle assets](https://github.com/aroongta/Carla_Controller)
    
    ### Other <a name="Other_Code" />🚦
+   * [Autonomous driving platform running on the CARLA simulator](https://github.com/erdos-project/pylot) <==
    * [MATLAB Carla Interface](https://github.com/darkscyla/MATLAB-Carla-Interface)
    * [Dockerfile to use CARLA ROS bridge on Docker container](https://github.com/atinfinity/carla_ros_bridge_docker)
    * [The OmniScape Dataset](https://github.com/ARSekkat/OmniScape) - Use version 0.9.x
