@@ -35,6 +35,7 @@ More info [here](http://carla.org/).
 
 
 ## Releases 📦⛳
+* [0.9.9 (Linux and Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.9)
 * [0.9.8 (Linux and Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.8)
 * [0.9.7 (Linux only) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.7)
 * [0.9.7 (windows unofficial release)](https://mega.nz/#!jRIXBQZZ!T5t-g1wYYnmRmTtPHGOLJHAFUngfAphPHqiAn2TvnL8) + [Python API](https://mega.nz/#!zFRwUQJb!2QGp_DhuddpGCa4uMBG07aRZUBVtim597OBZaLZAqBY) found at Discord uploaded by @edufrikuto => NOT tested!
