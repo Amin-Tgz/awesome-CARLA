@@ -34,7 +34,7 @@ More info [here](http://carla.org/).
 <a name="releases" />
 
 
-## Releases 📦⛳ 
+## Releases 📦⛳
 * [0.9.8 (Linux and Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.8)
 * [0.9.7 (Linux only) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.7)
 * [0.9.7 (windows unofficial release)](https://mega.nz/#!jRIXBQZZ!T5t-g1wYYnmRmTtPHGOLJHAFUngfAphPHqiAn2TvnL8) + [Python API](https://mega.nz/#!zFRwUQJb!2QGp_DhuddpGCa4uMBG07aRZUBVtim597OBZaLZAqBY) found at Discord uploaded by @edufrikuto => NOT tested!
@@ -158,6 +158,7 @@ More info [here](http://carla.org/).
    * [VNC/SSH Carla server inside a docker container](https://github.com/volkodava/docker-carla-vnc-desktop)
    * [CARLA Simulatior intergation for the da Vinci Research Kit](https://github.com/ABC-iRobotics/dvrk_carla)
    * [Additional clients examples for Carla](https://github.com/marcgpuig/carla_py_clients)
+   * [TELECARLA: An Open Source Extension of the CARLA Simulator for Teleoperated Driving Research Using Off-the-Shelf Components](https://github.com/hofbi/telecarla)
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
