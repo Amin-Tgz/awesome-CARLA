@@ -161,7 +161,8 @@ More info [here](http://carla.org/).
    * [CARLA Simulatior intergation for the da Vinci Research Kit](https://github.com/ABC-iRobotics/dvrk_carla)
    * [Additional clients examples for Carla](https://github.com/marcgpuig/carla_py_clients)
    * [TELECARLA: An Open Source Extension of the CARLA Simulator for Teleoperated Driving Research Using Off-the-Shelf Components](https://github.com/hofbi/telecarla)
-
+   * ["Learning by Cheating" (CoRL 2019) submission for the 2020 CARLA Challenge](https://github.com/bradyz/2020_CARLA_challenge)
+   
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
 ## Contributions 📭  <a name="contributions" />
