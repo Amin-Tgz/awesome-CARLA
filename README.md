@@ -136,6 +136,7 @@ More info [here](http://carla.org/).
    * [Implementing Lane Keeping Assist (LKA) on CARLA simulator](https://github.com/paulyehtw/Lane-Keeping-Assist-on-CARLA)
    * [CARLA_Motion_Planning_for_Self-Driving_Cars_Project](https://github.com/yymmaa0000/CARLA_Motion_Planning_for_Self-Driving_Cars_Project)
    * [Repository for the infinite horizon controller and the preview path tracking controller for Carla-Vehicle assets](https://github.com/aroongta/Carla_Controller)
+   * [CARMASimulation for vehicle dynamic](https://github.com/usdot-fhwa-stol/carma-simulation/)
 
    ### Other <a name="Other_Code" />🚦
    * [Autonomous driving platform running on the CARLA simulator](https://github.com/erdos-project/pylot) <==
