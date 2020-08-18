@@ -68,6 +68,8 @@ More info [here](http://carla.org/).
 * [Coursera(self-driving-cars)](https://www.coursera.org/specializations/self-driving-cars)
 * [Model-free Deep Reinforcement Learning for Urban Autonomous Driving](https://www.groundai.com/project/model-free-deep-reinforcement-learning-for-urban-autonomous-driving/)
 * [Self-driving cars with Carla and Python(Sentdex Tutorials)](https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/)
+* [My Bibliography for Research on Autonomous Driving](https://github.com/chauvinSimon/My_Bibliography_for_Research_on_Autonomous_Driving)
+
 
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
@@ -88,6 +90,8 @@ More info [here](http://carla.org/).
    * [Hands-On-Intelligent-Agents-with-OpenAI-Gym](https://github.com/PacktPublishing/Hands-On-Intelligent-Agents-with-OpenAI-Gym) - Use version 0.8.x
    * [An OpenAI gym wrapper for CARLA simulator](https://github.com/cjy1992/gym-carla)
    * [Reproducing : https://github.com/intel-isl/DirectFuturePrediction And applying to gym and CARLA](https://github.com/Ourshanabi/DirectFuturePrediction_CARLA)
+   * [CARLA real traffic scenarios](https://github.com/deepsense-ai/carla-real-traffic-scenarios)
+
 
    ### Imitation Learning 🌈 <a name="IL" />
    * [imitation-learning official repository](https://github.com/carla-simulator/imitation-learning)
@@ -113,7 +117,9 @@ More info [here](http://carla.org/).
    * [Detect CARLA Simulator's Traffic Speed Sign using YOLO v3](https://github.com/martisaju/CARLA-Speed-Traffic-Sign-Detection-Using-Yolo)
    * [Generating training data from the Carla driving simulator in the KITTI dataset format](https://github.com/enginBozkurt/carla-training-data) - Use version 0.8.x
    * [An application of Tensorflow's object detection API to the Carla simulator](https://github.com/s-nandi/carla-car-detection) - Use version 0.8.4
-
+   * [Autonomous car chase: The repository presents a system that can autonomously chase another vehicle](https://github.com/JahodaPaul/autonomous-car-chase)
+   * [Pylot is an autonomous vehicle platform for developing and testing autonomous vehicle components](https://github.com/erdos-project/pylot)
+   
    ### Segmentation <a name="Seg" /> 🌴
    * [Image segmentation using U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
    * [Semantic segmentation for carla dataset](https://github.com/EvanWY/CARLASemSeg)
@@ -137,7 +143,8 @@ More info [here](http://carla.org/).
    * [CARLA_Motion_Planning_for_Self-Driving_Cars_Project](https://github.com/yymmaa0000/CARLA_Motion_Planning_for_Self-Driving_Cars_Project)
    * [Repository for the infinite horizon controller and the preview path tracking controller for Carla-Vehicle assets](https://github.com/aroongta/Carla_Controller)
    * [CARMASimulation for vehicle dynamic](https://github.com/usdot-fhwa-stol/carma-simulation/)
-
+   * [Adaptive Cruise Control System (ACC) in the CARLA Simulator](https://github.com/ezapridou/carla-acc)
+   
    ### Other <a name="Other_Code" />🚦
    * [Autonomous driving platform running on the CARLA simulator](https://github.com/erdos-project/pylot) <==
    * [MATLAB Carla Interface](https://github.com/darkscyla/MATLAB-Carla-Interface)
@@ -165,7 +172,11 @@ More info [here](http://carla.org/).
    * ["Learning by Cheating" (CoRL 2019) submission for the 2020 CARLA Challenge](https://github.com/bradyz/2020_CARLA_challenge)
    * [Simple rule-based Carla Parking manoeuver - ROS integration](https://github.com/vignif/carla-parking)
    * [Adversarial Attacks injection in Carla](https://github.com/piazzesiNiccolo/myLbc)
-
+   * [Privacy-Aware Personalized ADAS Research](https://github.com/armandsarkani/Privacy-Aware-Personalized-ADAS-Research)
+   * [ScenarioRunner for CARLA](https://github.com/KeyingLucyWang/Safe_Reconfiguration_Scenarios)
+   * [Carla-GUI: tool to help human-vehicle interaction researchers design and conduct traffic experiments](https://github.com/CenturyLiu/Carla-GUI)
+   
+   
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
 
 ## Contributions 📭  <a name="contributions" />
