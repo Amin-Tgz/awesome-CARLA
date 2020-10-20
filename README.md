@@ -175,6 +175,7 @@ More info [here](http://carla.org/).
    * [Privacy-Aware Personalized ADAS Research](https://github.com/armandsarkani/Privacy-Aware-Personalized-ADAS-Research)
    * [ScenarioRunner for CARLA](https://github.com/KeyingLucyWang/Safe_Reconfiguration_Scenarios)
    * [Carla-GUI: tool to help human-vehicle interaction researchers design and conduct traffic experiments](https://github.com/CenturyLiu/Carla-GUI)
+   * [Predicting collisions using deep learning(CNN+LSTMs) for Carla](https://github.com/perseus784/Vehicle_Collision_Prediction_Using_CNN-LSTMs) 
    
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
