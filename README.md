@@ -132,7 +132,7 @@ More info [here](http://carla.org/).
    * [A simple tool for generating training data from the Carla driving simulator](https://github.com/Ozzyz/carla-data-export)
    * [Script for extracting semantic segmentation/depth prediction dataset out of Carla Urban Driving Simulator](https://github.com/alirezahappy/Carla_Script)
    * [Generate visual navigation data for CARLA](https://github.com/IamWangYunKai/carla_py) - 0.9.5
-   * [Multi-View Region of Interest Prediction for Autonomous Driving Using Semi-Supervised Labeling](https://github.com/hofbi/mv-roik)
+   * [Multi-View Region of Interest Prediction for Autonomous Driving Using Semi-Supervised Labeling](https://github.com/hofbi/mv-roi)
 
    ### Control <a name="control" /> 🔥
    * [Implement Motion Planning for autonomous car on CARLA simulator](https://github.com/paulyehtw/Motion-Planning-on-CARLA)
