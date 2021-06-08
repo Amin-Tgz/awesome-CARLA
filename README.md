@@ -35,6 +35,9 @@ More info [here](http://carla.org/).
 
 
 ## Releases 📦⛳
+
+* [0.9.11 (Linux and Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.11)
+* [0.9.10 (Linux and Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.10)
 * [0.9.9 (Linux and Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.9)
 * [0.9.8 (Linux and Windows) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.8)
 * [0.9.7 (Linux only) official release](https://github.com/carla-simulator/carla/releases/tag/0.9.7)
