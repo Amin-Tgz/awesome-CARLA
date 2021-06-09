@@ -121,6 +121,8 @@ More info [here](http://carla.org/).
    * [Pylot is an autonomous vehicle platform for developing and testing autonomous vehicle components](https://github.com/erdos-project/pylot)
    
    ### Segmentation <a name="Seg" /> 🌴
+
+   * [DAVID: Densely Annotated Video Driving Data Set](https://mediatum.ub.tum.de/1596437)
    * [Image segmentation using U-Net](https://github.com/henyau/Image-Segmentation-with-Unet)
    * [Semantic segmentation for carla dataset](https://github.com/EvanWY/CARLASemSeg)
    * [Semantic Instance Geometry Network for Unsupervised Perception](https://github.com/raunaks13/carla-SIGNet)
