@@ -33,6 +33,8 @@ More info [here](http://carla.org/).
 
 <a name="releases" />
 
+## Upcoming Release
+[0.9.12 Milestone](https://github.com/carla-simulator/carla/milestone/22)
 
 ## Releases 📦⛳
 
