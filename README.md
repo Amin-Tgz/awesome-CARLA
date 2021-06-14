@@ -123,7 +123,6 @@ More info [here](http://carla.org/).
    * [Generating training data from the Carla driving simulator in the KITTI dataset format](https://github.com/enginBozkurt/carla-training-data) - Use version 0.8.x
    * [An application of Tensorflow's object detection API to the Carla simulator](https://github.com/s-nandi/carla-car-detection) - Use version 0.8.4
    * [Autonomous car chase: The repository presents a system that can autonomously chase another vehicle](https://github.com/JahodaPaul/autonomous-car-chase)
-   * [Pylot is an autonomous vehicle platform for developing and testing autonomous vehicle components](https://github.com/erdos-project/pylot)
    
    ### Segmentation <a name="Seg" /> 🌴
 
@@ -182,7 +181,9 @@ More info [here](http://carla.org/).
    * [Privacy-Aware Personalized ADAS Research](https://github.com/armandsarkani/Privacy-Aware-Personalized-ADAS-Research)
    * [ScenarioRunner for CARLA](https://github.com/KeyingLucyWang/Safe_Reconfiguration_Scenarios)
    * [Carla-GUI: tool to help human-vehicle interaction researchers design and conduct traffic experiments](https://github.com/CenturyLiu/Carla-GUI)
-   * [Predicting collisions using deep learning(CNN+LSTMs) for Carla](https://github.com/perseus784/Vehicle_Collision_Prediction_Using_CNN-LSTMs) 
+   * [Predicting collisions using deep learning(CNN+LSTMs) for Carla](https://github.com/perseus784/Vehicle_Collision_Prediction_Using_CNN-LSTMs)
+   * [Pylot is an autonomous vehicle platform for developing and testing autonomous vehicle components (from the ERDOS project)](https://github.com/erdos-project/pylot)
+
    
    
 [<img src="imgs/up.png" alt="down" width="30" height="30">  **Back to Top**](#TOC)
