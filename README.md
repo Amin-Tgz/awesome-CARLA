@@ -183,6 +183,7 @@ More info [here](http://carla.org/).
    * [Carla-GUI: tool to help human-vehicle interaction researchers design and conduct traffic experiments](https://github.com/CenturyLiu/Carla-GUI)
    * [Predicting collisions using deep learning(CNN+LSTMs) for Carla](https://github.com/perseus784/Vehicle_Collision_Prediction_Using_CNN-LSTMs)
    * [Pylot is an autonomous vehicle platform for developing and testing autonomous vehicle components (from the ERDOS project)](https://github.com/erdos-project/pylot)
+   * [Running CARLA on cloud (AWS EC2)](https://github.com/jbnunn/CARLADesktop)
 
    
    
