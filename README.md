@@ -184,6 +184,7 @@ More info [here](http://carla.org/).
    * [Predicting collisions using deep learning(CNN+LSTMs) for Carla](https://github.com/perseus784/Vehicle_Collision_Prediction_Using_CNN-LSTMs)
    * [Pylot is an autonomous vehicle platform for developing and testing autonomous vehicle components (from the ERDOS project)](https://github.com/erdos-project/pylot)
    * [Running CARLA on cloud (AWS EC2)](https://github.com/jbnunn/CARLADesktop)
+   * [Running CARLA on Google Colab](https://github.com/MichaelBosello/carla-colab)
 
    
    
