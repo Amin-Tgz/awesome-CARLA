@@ -96,6 +96,7 @@ More info [here](http://carla.org/).
    * [An OpenAI gym wrapper for CARLA simulator](https://github.com/cjy1992/gym-carla)
    * [Reproducing : https://github.com/intel-isl/DirectFuturePrediction And applying to gym and CARLA](https://github.com/Ourshanabi/DirectFuturePrediction_CARLA)
    * [CARLA real traffic scenarios](https://github.com/deepsense-ai/carla-real-traffic-scenarios)
+   * [DI-drive: Decision Intelligence Auto-driving platform with Carla](https://github.com/opendilab/DI-drive)
 
 
    ### Imitation Learning 🌈 <a name="IL" />
