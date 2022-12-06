@@ -140,6 +140,7 @@ More info [here](http://carla.org/).
    * [Script for extracting semantic segmentation/depth prediction dataset out of Carla Urban Driving Simulator](https://github.com/alirezahappy/Carla_Script)
    * [Generate visual navigation data for CARLA](https://github.com/IamWangYunKai/carla_py) - 0.9.5
    * [Multi-View Region of Interest Prediction for Autonomous Driving Using Semi-Supervised Labeling](https://github.com/hofbi/mv-roi)
+   * [CARLA-KITTI: Yet another data collector generates inputs/outputs for the KITTI 2D/3D Object Detection task](https://github.com/fnozarian/CARLA-KITTI) - Use version 0.9.10
 
    ### Control <a name="control" /> 🔥
    * [Implement Motion Planning for autonomous car on CARLA simulator](https://github.com/paulyehtw/Motion-Planning-on-CARLA)
