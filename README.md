@@ -73,6 +73,7 @@ More info [here](http://carla.org/).
 * [Coursera(self-driving-cars)](https://www.coursera.org/specializations/self-driving-cars)
 * [Model-free Deep Reinforcement Learning for Urban Autonomous Driving](https://www.groundai.com/project/model-free-deep-reinforcement-learning-for-urban-autonomous-driving/)
 * [Self-driving cars with Carla and Python(Sentdex Tutorials)](https://pythonprogramming.net/introduction-self-driving-autonomous-cars-carla-python/)
+* [CARLA 0.9.16 Python API Basics (Chinese, line-by-line annotated notebook)](https://github.com/Inspired-by-Atmosphere/carla_APIcode) - Single-file Jupyter tutorial covering client connection, map loading, vehicle spawning, autopilot, 4-camera RGB stitch, IMU/GNSS callbacks, LiDAR point-cloud export with Open3D; tested against CARLA 0.9.16
 * [My Bibliography for Research on Autonomous Driving](https://github.com/chauvinSimon/My_Bibliography_for_Research_on_Autonomous_Driving)
 
 
