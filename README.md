@@ -204,7 +204,7 @@ Docs: [UE5 docs (latest)](https://carla-ue5.readthedocs.io/en/latest/) | [UE4 do
     * [Running CARLA on cloud (AWS EC2)](https://github.com/jbnunn/CARLADesktop)
     * [Running CARLA on Google Colab](https://github.com/MichaelBosello/carla-colab)
 
-    ### End-to-End Driving <a name="E2E" />🤖
+   ### End-to-End Driving <a name="E2E" />🤖
     * [TransFuser: Imitation With Transformer-Based Sensor Fusion](https://github.com/autonomousvision/transfuser) - ~1592★, PAMI'23 / CVPR'21 multi-modal fusion transformer for end-to-end driving, CARLA 0.9.10.1 + Leaderboard
     * [CARLA Garage: Hidden Biases of End-to-End Driving Models + LB2.0 Starter Kit](https://github.com/autonomousvision/carla_garage) - ~557★, ICCV'23, first complete open-source LB2.0 kit with dataset, PDM-Lite expert, TransFuser++ training/eval code + weights (2nd place CVPR24 challenge)
     * [InterFuser: Safety-Enhanced Autonomous Driving Using Interpretable Sensor Fusion Transformer](https://github.com/opendilab/InterFuser) - ~653★, CoRL'22, interpretable multi-view fusion, LB SOTA 2022
@@ -212,25 +212,25 @@ Docs: [UE5 docs (latest)](https://carla-ue5.readthedocs.io/en/latest/) | [UE4 do
     * [DriveLM: Driving With Graph Visual Question Answering (+ PDM-Lite LB2.0 Expert)](https://github.com/OpenDriveLab/DriveLM) - ECCV'24, GVQA perception-prediction-planning + rule-based PDM-Lite planner for LB2.0 (expert code/report in `pdm_lite`, dataset on HuggingFace)
     * [End-to-End Parking in CARLA](https://github.com/qintonguav/e2e-parking-carla) - ~255★, end-to-end parking
 
-    ### Benchmarks / Leaderboard <a name="benchmark" />🏁
+   ### Benchmarks / Leaderboard <a name="benchmark" />🏁
     * [Bench2Drive: Towards Multi-Ability Benchmarking of Closed-Loop End-to-End Driving](https://github.com/Thinklab-SJTU/Bench2Drive) - ~1909★, NeurIPS'24, 2M frames / 44 scenarios / 23 weathers / 12 towns, Think2Drive RL expert, 220-route closed-loop eval, CARLA 0.9.15
     * [Bench2DriveZoo: BEVFormer, UniAD, VAD in Closed-Loop CARLA Evaluation](https://github.com/Thinklab-SJTU/Bench2DriveZoo) - ~398★, training + open/closed-loop eval for BEVFormer/UniAD/VAD student models of Think2Drive
     * [CARLA Autonomous Driving Leaderboard](https://github.com/carla-simulator/leaderboard) - ~222★, official eval platform, Leaderboard 1.0 / 2.0 / 2.1 (see `leaderboard-2.0` branch)
     * [PCLA: Framework for Testing Autonomous Agents in CARLA](https://github.com/MasoudJTehrani/PCLA) - ~101★, adversarial/testing framework
     * [ChatScene: Knowledge-Enabled Safety-Critical Scenario Generation](https://github.com/javyduck/ChatScene) - ~199★, CVPR'24, LLM + Scenic/OpenSCENARIO safety-critical generation for CARLA
 
-    ### Cooperative / V2X <a name="V2X" />📡
+   ### Cooperative / V2X <a name="V2X" />📡
     * [OpenCDA: Open Cooperative Driving Automation Framework (CARLA+SUMO)](https://github.com/ucla-mobility/OpenCDA) - ~1166★, full-stack Python CDA platform: perception, planning, control, platooning, cooperative merge, V2X comm with delay/noise, 10+ scenarios
     * [OpenCOOD: Open Cooperative Detection Framework (OPV2V Official)](https://github.com/DerrickXuNu/OpenCOOD) - ~830★, ICRA'22 OPV2V official, early/late/intermediate fusion (F-Cooper, V2VNet, V2X-ViT, Where2comm, CoBEVT), V2XSet support, log replay
     * [V2Xverse: Deployment of SOTA End-to-End Methods in CARLA-Based V2X Benchmark](https://github.com/CollaborativePerception/V2Xverse) - ~184★ (<200★ exception: peer-reviewed benchmark), TransFuser/LAV/TCP/InterFuser + V2VNet/V2X-ViT/F-Cooper, 5 scenario configs, CARLA 0.9.10.1
     * [PCSim: LiDAR Point Cloud Simulation and Sensor Placement](https://github.com/PJLab-ADG/PCSim) - ~270★, ICRA'23 infrastructure-LiDAR placement + realistic LiDAR sim
 
-    ### ROS2 / Autoware / Apollo <a name="ROS2" />🔧
+   ### ROS2 / Autoware / Apollo <a name="ROS2" />🔧
     * [Carla-Autoware-Bridge: CARLA 0.9.15 + Autoware Universe Humble](https://github.com/TUMFTM/Carla-Autoware-Bridge) - ~241★, TUM, Docker + `carla_aw_bridge.launch.py`, town/port/traffic-manager options, successor `autoware_carla_leaderboard` for scenario-based testing on 0.9.16
     * [CARLA Apollo Bridge: Data and Control Bridge for Latest Apollo + CARLA](https://github.com/guardstrikelab/carla_apollo_bridge) - ~389★, Apollo ↔ CARLA bridge
     * [UDMC CARLA: Optimization-Based Unified Decision-Making and Control](https://github.com/henryhcliu/udmc_carla) - ~66★, optimization-based urban decision + control in CARLA
 
-    ### Maps / Digital Twin / Sensors / HMI <a name="Twin" />🗺️
+   ### Maps / Digital Twin / Sensors / HMI <a name="Twin" />🗺️
     * [CARLA Dataset Tools: Tools for Dataset Generation Based on CARLA](https://github.com/KevinLADLee/carla_dataset_tools) - ~151★, data collector / dataset generation utilities
     * [CARLA BirdEye View](https://github.com/deepsense-ai/carla-birdeye-view) - ~226★, bird's-eye-view rendering for CARLA
     * [CARLA2Real: Enhance Photorealism of CARLA in Real Time](https://github.com/stefanos50/CARLA2Real) - ~71★, real-time photorealism enhancement (EPE)
